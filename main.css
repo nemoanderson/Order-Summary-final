@@ -132,13 +132,15 @@ body {
   opacity: 0.8;
 }
 
-.cancel {
+.cancel-button {
+  background-color: white;
   color: var(--bright-blue);
   margin-top: 22px;
   padding: 25px;
   margin-top: 22px;
 }
 
-.cancel:hover {
+.cancel-button:hover {
+  
   color: #000;
 }
